@@ -1,4 +1,5 @@
-# MoviebookingApp_DBMS_basedproject : This is a Java-based console application that simulates a real-world movie ticket booking system. The system uses JDBC to connect with MySQL, supports stored procedures, and includes modules for user registration, login, movie browsing, seat checking, bookings, payments, reviews, and admin features.
+# MoviebookingApp_DBMS_basedproject : 
+ This is a Java-based console application that simulates a real-world movie ticket booking system. The system uses JDBC to connect with MySQL, supports stored procedures, and includes modules for user registration, login, movie browsing, seat checking, bookings, payments, reviews, and admin features.
 
  Features
  User Registration & Login
